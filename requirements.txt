@@ -11,7 +11,7 @@ itsdangerous==2.2.0
 Jinja2==3.1.4
 MarkupSafe==2.1.5
 Werkzeug==3.0.3
-scikit-learn==0.24.2  # For classification_report and confusion_matrix
+scikit-learn==0.24.2 
 split-folders==0.4.3
 matplotlib==3.4.3
 seaborn==0.11.2
